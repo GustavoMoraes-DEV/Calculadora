@@ -28,6 +28,8 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 * Organização de menus interativos.
 * Limpeza da tela utilizando a biblioteca `os`.
 
+  ![imagem.calculadora](https://github.com/GustavoMoraes-DEV/Calculadora/blob/main/calculadora.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Python
